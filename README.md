@@ -6,7 +6,7 @@ Currently transitioning into UI/UX design and front-end development, with a stro
 
 💼 Background
 - B.E in Computer Science Engineering (2022)
-- Network Operations Advisor – Accenture (2023–2025)
+- Network Operations Advisor – Accenture (2024–2025)
 - Currently building design projects & learning modern UI practices
 
 
