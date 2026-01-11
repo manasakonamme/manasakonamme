@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi everyone!
 
-<!--
-**manasakonamme/manasakonamme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a UI/UX enthusiast with a background in Computer Science and experience in Network Operations at Accenture.  
+Currently transitioning into UI/UX design and front-end development, with a strong interest in clean, minimal and user-focused design.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Background
+- B.E in Computer Science Engineering (2022)
+- Network Operations Advisor – Accenture (2023–2025)
+- Currently building design projects & learning modern UI practices
+
+
+🌱 Interests
+- UI/UX & Web Design
+- Minimal & aesthetic design
+- Swimming
+
+
+📫 Let’s connect
+- Behance: https://www.behance.net/manasakonamme  
+- LinkedIn: https://www.linkedin.com/in/manasa-konamme  
+- Email: manasakonamme01@gmail.com
